@@ -1,0 +1,34 @@
+body {background-color: aqua;
+}
+h1{text-align: center;
+    color: black;
+    }
+ #ima1{border-color: yellow;
+        border-style: double;
+       border-width: 37px;}
+    
+
+h2{text-align: center;
+    color: chocolate;
+}
+#ima2{border-color:purple;
+    border-style: double;
+   border-width: 40px;}
+
+#ima2 {width: 50%;}
+h3{text-align: center;
+    color: red;
+}
+#ima3{border-color: green;
+    border-style: double;
+   border-width: 35px;}
+   
+#ima3 {width: 50%;}
+h4{text-align: center;
+    color: blue;
+}
+#ima4 {width: 50%;
+}
+#ima4{border-color:blue;
+    border-style: double;
+   border-width: 30px;}
